@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,500&family=Montserrat:wght@400;500;600&family=Poppins:wght@300&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    font-family:'poppins', sans-serif;
+
+}
+
+body{
+    background-color:darkkhaki;
+}
+.card{
+    color: white;
+    background: rgba(14, 13, 29, 0.31);
+    border-radius: 20PX;
+    border-width: 0px;
+    height: 600px;
+}63
